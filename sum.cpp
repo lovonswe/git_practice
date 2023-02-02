@@ -11,6 +11,6 @@ int main(){
         ll a, b;
         ll sum;
         sum=a+b;
-        cout << sum << endl;
+        cout << "Sum : " << sum << endl;
     }
 }

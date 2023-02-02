@@ -8,6 +8,9 @@ int main(){
     ll t;
     cin >> t;
     while(t--){
-        ll s
+        ll a, b;
+        ll sum;
+        sum=a+b;
+        cout << "Sum : " << sum << endl;
     }
 }
